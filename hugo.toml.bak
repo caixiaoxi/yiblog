@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'YIYIBlog'
+theme = 'hugo-theme-stack.git'
+
+DefaultContentLanguage: en
