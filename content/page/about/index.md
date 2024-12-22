@@ -2,6 +2,7 @@
 title: 关于
 description: 蔡伊一 Yilia
 date: '2014-12-21'
+slug: "about"
 menu:
     main: 
         weight: -90
@@ -11,4 +12,4 @@ menu:
 
 蔡伊一 (Yilia) 一个小学生
 
-![img](2024-12-04Flux-pulid_00078_.png)
+![img](yiyi_kat.jpg)
