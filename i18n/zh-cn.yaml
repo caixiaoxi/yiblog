@@ -61,7 +61,7 @@ search:
 
 footer:
     builtWith:
-        other: 使用 {{ .Generator }} 构建
+        other: ''
 
     designedBy:
         other: ''
