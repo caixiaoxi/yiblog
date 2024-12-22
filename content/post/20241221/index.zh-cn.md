@@ -3,7 +3,7 @@ title: 我有一个想法
 description: 我有一个想法，我想穿越到三国时期，亲眼见见我的偶像诸葛亮
 date: 2024-12-21
 slug: 20241221
-# image: 2024-12-04Flux-pulid_00083_.png
+image: 草船借箭4.jpg
 tags: 
     - "作文"
 
