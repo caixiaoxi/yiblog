@@ -1,8 +1,13 @@
 ---
-title: 关于
-description: 蔡伊一 Yilia
-date: '2014-12-21'
+title: 简介
+description: 蔡伊一 Yilia 的自我介绍
+date: '2014-12-20'
+lastmod: '2024-12-23'
 slug: "about"
+tags: 
+    - "简介"
+categories:
+    - blog
 menu:
     main: 
         weight: -90
@@ -13,7 +18,9 @@ menu:
 ## 关于我
 
 &emsp;&emsp; 大家好，我是蔡伊一 Yilia. 这是我的个人博客，我已经上三年级了。让我给大家介绍一下自己吧。
-![img](yiyi_kat.jpg)
+
+![](yiyi_kat.jpg)
+
 我爱好看书，练习书法、素描，还有钢琴。喜欢玩铃球，我跳绳能跳170多下，但是我短跑成绩不太好，需要加强锻炼。
 
 ## 好伙伴
