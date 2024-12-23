@@ -2,7 +2,7 @@ baseurl: https://caiyiyi.bbjup.com
 languageCode: en-us
 theme: hugo-theme-stack
 title: 蔡伊一的博客
-copyright: Yulia - 蔡伊一
+copyright: 蔡伊一  Yulia's Blog
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -121,7 +121,7 @@ params:
         waline:
             serverURL: https://wal.bbjup.cn/
             lang: zh-CN
-            pageview:
+            pageview: true
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis/qq
             requiredMeta:

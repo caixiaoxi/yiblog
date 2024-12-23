@@ -61,7 +61,7 @@ search:
 
 footer:
     builtWith:
-        other: ''
+        other: Built with Hugo
 
     designedBy:
-        other: ''
+        other: Theme {{ .Theme }} designed by Jimmy
