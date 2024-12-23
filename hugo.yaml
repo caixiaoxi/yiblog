@@ -83,8 +83,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider: disqus
+        enabled: true
+        provider: waline
 
         disqusjs:
             shortname:
@@ -119,8 +119,8 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
-            lang:
+            serverURL: https://wal.bbjup.cn/
+            lang: zh-CN
             pageview:
             emoji:
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
