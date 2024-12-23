@@ -123,14 +123,12 @@ params:
             lang: zh-CN
             pageview:
             emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis/qq
             requiredMeta:
                 - name
-                - email
-                - url
             locale:
-                admin: Admin
-                placeholder:
+                admin: 管理员
+                placeholder: 输入昵称或登录后发表评论
 
         twikoo:
             envId:
